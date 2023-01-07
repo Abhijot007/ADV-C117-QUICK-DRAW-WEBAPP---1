@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(#e66465, #9198e5);
+    color: rgb(85, 7, 7);
+}
+
+#span_score {
+    float: left;
+    margin-left: 5px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#span_timer {
+    float: right;
+    margin-right: 5px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#sketch_drawn {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+#your_sketch, #confidence {
+    font-size: 20px;
+}
